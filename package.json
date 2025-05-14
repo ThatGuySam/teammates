@@ -12,5 +12,8 @@
   "packageManager": "pnpm@10.11.0",
   "dependencies": {
     "tsx": "^4.19.4"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4"
   }
 }
